@@ -2,7 +2,7 @@
 https://fullstackopen.com/en/
 
 - part0 (done)
-- part1 (in progress)
+- part1 (in progress: a:JSX)
 - part2
 - part3
 - part4
